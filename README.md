@@ -1,5 +1,7 @@
 Task
     Create new Cascading Style Sheet file (styles.css) and save it to the same folder with your web page.
+	<br>
+	<br>
     Create new web page (index.html) and save it to the same folder with your Cascading Style Sheet file.
         Link the created style sheet (styles.css) to your page (index.html)
         Add h1-element with some text to your web page.
@@ -7,6 +9,8 @@ Task
         Add div-element to your web page.
         Add ordered list with two item rows to your web page.
         Add unordered list with two item rows to your web page.
+	<br>
+	<br>
     Configure the color and text on your web page using this external style sheet.
         Set background color to black and text color to white.
         Set h1-element font size to 20 pixels.
